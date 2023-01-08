@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
+/**
+ * @param Functions are in use here and is showed how to use them.
+ */
+
 void radius_form(void);
 void diameter_form(void);
 

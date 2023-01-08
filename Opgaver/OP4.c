@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <windows.h>
 
+/**
+ * A switch loop is in use here.
+ */
+
 int days, weeks, month, years, b_years, a_years, days_years, days_month, days_total, a_days;
 int jan = 31, feb = 29, mar = 31, apr = 30, maj = 31, jun = 30, jul = 31, aug = 31, sep = 30, okt = 31, nov = 30, dec = 31;
 

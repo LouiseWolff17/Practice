@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/* I DONT UNDERSTAND THIS EXERCISE*/
+/**
+ * @param Variables is in use here and how they are used in printf().
+ */
 
 int a = 125, b = 12345;
 long ax = 1234567890;

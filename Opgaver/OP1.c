@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * Simple math in C.
+ */
+
 int main(void){
 double i, j, perimeter, area;
 
